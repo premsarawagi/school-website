@@ -1,0 +1,12 @@
+#image {
+    border-radius: 50%;
+}
+
+.row {
+    display: flex;
+}
+
+.half {
+    flex: 50%;
+}
+
